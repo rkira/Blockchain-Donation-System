@@ -17,7 +17,7 @@ How to Run!!!
 4)After Deployment in frontend/app.js
 // Replace with your contract address after deployment in deployed contracts in Ganache.
 
-    Replace "*" in  "const contractAddress = '*';" to your Contract Address; 
+    Replace "*" in  "const contractAddress = '*';" with your Contract Address; 
 
 5)Start the development server with npm start.
 
